@@ -1,18 +1,14 @@
 ---
-title: 'How to push local files to GitHub'
-date: 2024-08-15
-permalink: /posts/2024-08-15/
+title: '博客的第一篇日记'
+date: 2024-11-09
+permalink: /posts/2024-11-09/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - 日记
+  - 平静
 ---
 
-This is my first blog on my first personal website.
-Here to record how to push files to github repository after file modification.
-OS: Win 11
+今天上午搞了下个人网页，下午睡了午觉，得知可能jpm面试没进下一轮。
 
-1. Github bash at the local repository folder.
-1. Enter git add . to make all the files in the folder ready to upload.
-1. Enter git commit -m "whatever you would like to type"
-1. Enter git push to upload all the files to the online github repository.
+不过也没关系，确实是编程有点垃圾，未来多多努力。
+
+主要是python和数学，学啥都要多思考、弄懂、以及练习。
