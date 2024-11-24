@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-好人语录
+寄语
 ======
-Fight like Trump.
 
-大部分焦虑可以通过努力工作和吃喝解决
+努力工作 
 
-实在想不通就看中医去
+大吃大喝
+
 
